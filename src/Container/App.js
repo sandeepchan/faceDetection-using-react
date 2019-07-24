@@ -8,7 +8,7 @@ import FaceRecoginition from '../Components/FaceRec/FaceRec'
 import Clarifai from 'clarifai';
 import './App.css';
 const app = new Clarifai.App({
-  apiKey: 'your api key'
+  apiKey: 'Your Api'
  });
 const particle={
   
